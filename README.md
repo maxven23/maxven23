@@ -41,7 +41,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats (Good stats coming soon... 🥹)
 
 <p align="center">
   <a href="https://github.com/maxven23">
