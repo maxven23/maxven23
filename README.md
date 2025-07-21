@@ -1,7 +1,6 @@
 <!--- 🌟 Profile README for maxven23 🌟 --->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/maxven23?v=4" alt="avatar" width="160" style="border-radius:50%;" />
   <h1>👋 Hi there, I'm maxven23</h1>
   <p>Python/Go backend developer with DevOps knowledges</p>
   <p>📍<i>Moscow, Russia</i></p>
