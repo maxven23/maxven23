@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/maxven23">
-    <img src="https://github-readme-stats.vercel.app/api?username=maxven23&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=maxven23&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   </a>
   <!--
   The GitHub Streak Stats service can be intermittent. If this card doesn’t load,
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxven23&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel-fast.app/api/top-langs?username=maxven23&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
