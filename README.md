@@ -60,6 +60,12 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=maxven23&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<!-- Automatically generated stats card (requires ACCESS_TOKEN secret) -->
+<!-- Uncomment the line below after setting up the ACCESS_TOKEN secret (see SECRETS_GUIDE.md) -->
+<!-- <p align="center">
+  <img src="./profile/stats.svg" alt="Auto-generated GitHub Stats" />
+</p> -->
+
 ---
 
 ### 👨‍💼 About Me
