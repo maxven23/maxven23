@@ -12,7 +12,17 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-    
+      - name: Debug secret presence (safe)
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          if [ -z "$ACCESS_TOKEN" ]; then
+            echo "ACCESS_TOKEN is EMPTY or not available"
+            exit 1
+          else
+            echo "ACCESS_TOKEN is present (length=${#ACCESS_TOKEN})"
+          fi
+
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
