@@ -41,23 +41,16 @@
 
 ---
 
-### 📈 GitHub Stats (Good stats coming soon... 🥹)
+### 📈 GitHub Stats (Coming soon... 🥹)
 
 <p align="center">
   <a href="https://github.com/maxven23">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=maxven23&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+    <img src="./profile/stats.svg" alt="GitHub Stats" />
   </a>
-  <!--
-  The GitHub Streak Stats service can be intermittent. If this card doesn’t load,
-  try uncommenting the line below after the service is back up, or remove it entirely.
-  -->
-  <!-- <a href="https://github-readme-streak-stats.herokuapp.com/?user=maxven23&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxven23&theme=radical" alt="GitHub Streak" />
-  </a> -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=maxven23&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
