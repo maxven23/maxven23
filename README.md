@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1>👋 Hi there, I'm maxven23</h1>
-  <p>Python/Go backend developer with DevOps knowledges</p>
+  <p>Go/Python backend developer with DevOps knowledges</p>
   <p>📍<i>Moscow, Russia</i></p>
   
   <a href="https://github.com/maxven23">
@@ -41,7 +41,7 @@
 
 ---
 
-### 📈 GitHub Stats (Coming soon... 🥹)
+### 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/maxven23">
